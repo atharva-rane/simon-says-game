@@ -1,4 +1,10 @@
-A colorful and interactive Simon Says Game built using HTML, CSS, and JavaScript, this project tests your memory and reflexes through pattern recognition. Designed as a fun and engaging game, it challenges players to recall and repeat an ever-growing sequence of colors.
+### 🔵 Simon Says Game
+
+A classic memory game built using HTML, CSS, and JavaScript.
+- 🧠 Challenge your memory with color sequences.
+- 🎮 Fully responsive UI and interactive design.
+- 🚀 [Play it here](https://atharva-rane.github.io/simon-says-game/)
+- 📂 [Source Code](https://github.com/atharva-rane/simon-says-game)
 
 Game Rules:
   - Press any key to start the game.
@@ -12,3 +18,4 @@ Tech Stack:
  - CSS – For styling, layout, and animations
  - JavaScript – For game logic, event handling, and dynamic behavior
 
+Link for 
