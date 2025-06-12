@@ -17,5 +17,3 @@ Tech Stack:
  - HTML – For structure and elements
  - CSS – For styling, layout, and animations
  - JavaScript – For game logic, event handling, and dynamic behavior
-
-Link for 
